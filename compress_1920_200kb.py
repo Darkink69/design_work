@@ -4,8 +4,8 @@ from PIL import Image, ImageDraw, ImageFilter
 max_width = 1920
 max_size = 248000  # Kb
 optimal_width = 1200
-# imgs_folder = '//VARDATA\Content_and_Design\Products & Projects\Karta RU\Website\site/1x/1280х700'
-imgs_folder = 'in'
+imgs_folder = '//VARDATA\Content_and_Design\Products & Projects\Karta RU\Video\shorts\Сырье'
+# imgs_folder = 'in'
 
 
 def get_images():
