@@ -1,1 +1,4 @@
-
+Create folders:
+adobe
+shutterstock
+result
